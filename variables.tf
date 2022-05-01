@@ -16,7 +16,7 @@ variable "vault-token" {
   description = "Vault token with permissions"
 }
 
-variable ".mysql-connection-url" {
+variable "mysql-connection-url" {
   type        = string
   // default     = 
   description = "Mysql full url"
