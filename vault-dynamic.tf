@@ -49,9 +49,9 @@
 // //   allowed_roles = ["mysql-role"]
 
 // //   mysql {
-// //     // password = "123123"
+// //     // password = ""
 // //     // username = "vault"
-// //     connection_url = "vault:123123@tcp(209.126.6.141:3306)/"
+// //     connection_url = "user:pass@tcp(ip:3306)/"
 // //   }
 // // }
 
